@@ -35,12 +35,23 @@
 </div>
 <div align="center">
     <div style="display: inline-block; text-align: center;">
-      <img alt="Gustavo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guroch4&show_icons=true&theme=great-gatsby">
-      <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guroch4&hide_progress=false&theme=great-gatsby&layout=compact">
+      <img alt="Gustavo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=guroch4&show_icons=true&theme=great-gatsby&locale=pt-br">
+      <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guroch4&hide_progress=false&theme=great-gatsby&layout=compact&locale=pt-br">
     </div>
 </div>
 <br><br>
 
+<h2><img src="https://img.shields.io/badge/✦-FA8F36" alt="✦"> Principais repositorios no momento</h2>
+<div  align="center">
+  <div>
+      <img height="194em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=guroch4&repo=CS50-Introduction-Computer-Science&theme=great-gatsby">
+      <img height="194em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=guroch4&repo=LearnEnglish&theme=great-gatsby">
+  </div>
+  <div>
+      <img height="194em" width="400em" height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=guroch4&repo=GestaoContatos&theme=great-gatsby">
+      <img height="194em" width="400em" height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=guroch4&repo=GuRoch4&theme=great-gatsby">
+  </div>
+</div>
 
 
 
