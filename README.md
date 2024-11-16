@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4444&pause=444&color=FA8F36&background=FFFFFF00&center=true&vCenter=true&width=444&height=44&lines=%E2%9C%A6+GUSTAVO+ROCHA+%E2%9C%A6;%E2%9C%A6+ANALISTA+DE+DADOS+%E2%9C%A6" alt="Typing SVG" /></a>
+</p>
+
+
+
 ## Olá pessoal, eu sou o Gustavo especializado em Análise de Dados, com formação em Análise e Desenvolvimento de Sistemas!
 
 ![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guroch4\&show_icons=true\&theme=great-gatsby)
@@ -28,10 +34,3 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/guroch4/guroch4/output/github-contribution-grid-snake.svg">
 </picture>
 
-
-<p align="center">
-  <b>👩‍💻 SOBRE MIM</b>
-  <a href="https://github.com/getintorj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=ANALISTA%20DE%20DADOS%20;CIENTISTA%20DE%20DADOS%20;BUSINESS%20INTELLIGENCE;MACHINE%20LEARNING;PYTHON%20;EXCEL%20;SQL%20;NOSQL;SEMPRE%20APRENDENDO%20COISAS%20NOVAS&font=Fira%20Code&center=true&width=440&height=45&color=#8B008B=true&pause=1000&size=22" /></a>
-
-</p>
