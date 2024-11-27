@@ -41,7 +41,7 @@
 </div>
 <br><br>
 
-<h2><img src="https://img.shields.io/badge/✦-FA8F36" alt="✦"> Principais repositorios no momento</h2>
+<!--h2><img src="https://img.shields.io/badge/✦-FA8F36" alt="✦"> Principais repositorios no momento</h2>
 <div  align="center">
   <div>
       <img height="194em" width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=guroch4&repo=CS50-Introduction-Computer-Science&theme=great-gatsby">
@@ -51,7 +51,7 @@
       <img height="194em" width="400em" height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=guroch4&repo=GestaoContatos&theme=great-gatsby">
       <img height="194em" width="400em" height="124em" src="https://github-readme-stats.vercel.app/api/pin/?username=guroch4&repo=GuRoch4&theme=great-gatsby">
   </div>
-</div>
+</div--!>
 
 
 
